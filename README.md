@@ -15,7 +15,7 @@ Modern frontend development and improving my JavaScript skills.
 💬 Ask me about  
 Frontend basics, responsive layouts, or transitioning from backend/desktop apps to frontend.
 
-⚡ Fun fact  
+⚡ fact  
 I’m a frontend developer with experience in Java, Python, and C++ — logic first, UI second
 
 ## 🌐 Socials:
