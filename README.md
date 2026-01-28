@@ -1,22 +1,10 @@
-# 💫 About Me:
+I am a frontend developer dedicated to delivering engaging, user-friendly digital experiences. I focus on building solutions that balance functionality, performance, and design, ensuring seamless experiences across platforms.
 
-🔭 I’m currently working on  
-Frontend projects using HTML, CSS, and JavaScript, focusing on clean UI and responsive design.
+I enjoy collaborating on projects that challenge me to think critically, solve complex problems, and optimize for real-world performance. I am continually learning and refining my skills to stay ahead of industry best practices and emerging trends.
 
-👯 I’m looking to collaborate on  
-Frontend websites, UI-focused projects, and beginner-friendly open-source frontend work.
+With a strong foundation in programming and problem-solving, I approach every project with logic-driven solutions and a commitment to high-quality, maintainable code.
 
-🤝 I’m looking for help with  
-Advanced JavaScript concepts, performance optimization, and real-world frontend best practices.
-
-🌱 I’m currently learning  
-Modern frontend development and improving my JavaScript skills.
-
-💬 Ask me about  
-Frontend basics, responsive layouts, or transitioning from backend/desktop apps to frontend.
-
-⚡ fact  
-I’m a frontend developer with experience in Java, Python, and C++ — logic first, UI second
+💡 Fact: I prioritize thoughtful, scalable development while maintaining a sharp eye for design and usability.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/raniaraafat) 
@@ -35,10 +23,3 @@ I’m a frontend developer with experience in Java, Python, and C++ — logic fi
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rania-raafat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=rania-raafat&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rania-raafat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-[![](https://visitcount.itsvg.in/api?id=rania-raafat&icon=0&color=0)](https://visitcount.itsvg.in)
